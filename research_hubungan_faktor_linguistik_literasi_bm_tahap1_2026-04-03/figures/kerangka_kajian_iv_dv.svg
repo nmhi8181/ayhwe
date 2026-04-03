@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#F8F6F1"/>
+<rect x="0" y="0" width="1920" height="120" fill="#104D64"/>
+<text x="80" y="62" font-family="Arial, Segoe UI, sans-serif" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="80" dy="0">Kerangka Kajian Mengikut IV dan DV</tspan></text>
+<text x="82" y="96" font-family="Arial, Segoe UI, sans-serif" font-size="24" font-weight="400" fill="#D8E5EA" text-anchor="start"><tspan x="82" dy="0">Hubungan antara faktor linguistik murid dengan keberkesanan strategi pengajaran literasi Bahasa Melayu murid Tahap 1</tspan></text>
+<rect x="110" y="210" width="730" height="690" rx="36" fill="#FFFFFF" stroke="#D5DDE3" stroke-width="3"/>
+<rect x="1080" y="320" width="730" height="470" rx="36" fill="#FFFFFF" stroke="#D5DDE3" stroke-width="3"/>
+<rect x="110" y="170" width="360" height="60" rx="24" fill="#1F7A8C" stroke="#1F7A8C" stroke-width="3"/>
+<rect x="1080" y="280" width="430" height="60" rx="24" fill="#D9A441" stroke="#D9A441" stroke-width="3"/>
+<text x="290" y="208" font-family="Arial, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="290" dy="0">Pemboleh Ubah Bebas (IV)</tspan></text>
+<text x="1295" y="318" font-family="Arial, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="1295" dy="0">Pemboleh Ubah Bersandar (DV)</tspan></text>
+<rect x="170" y="270" width="610" height="120" rx="28" fill="#F9FBFC" stroke="#D5DDE3" stroke-width="3"/>
+<text x="475.0" y="338" font-family="Arial, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#1F2933" text-anchor="middle"><tspan x="475.0" dy="0">Kesedaran fonologi</tspan></text>
+<rect x="170" y="430" width="610" height="120" rx="28" fill="#F9FBFC" stroke="#D5DDE3" stroke-width="3"/>
+<text x="475.0" y="498" font-family="Arial, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#1F2933" text-anchor="middle"><tspan x="475.0" dy="0">Kesedaran morfologi asas</tspan></text>
+<rect x="170" y="590" width="610" height="120" rx="28" fill="#F9FBFC" stroke="#D5DDE3" stroke-width="3"/>
+<text x="475.0" y="658" font-family="Arial, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#1F2933" text-anchor="middle"><tspan x="475.0" dy="0">Kosa kata dan bahasa lisan</tspan></text>
+<rect x="170" y="750" width="610" height="120" rx="28" fill="#F9FBFC" stroke="#D5DDE3" stroke-width="3"/>
+<text x="475.0" y="818" font-family="Arial, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#1F2933" text-anchor="middle"><tspan x="475.0" dy="0">Bahasa ibunda / bahasa rumah</tspan></text>
+<rect x="1145" y="395" width="600" height="320" rx="32" fill="#FFFDF8" stroke="#D5DDE3" stroke-width="3"/>
+<text x="1195" y="445" font-family="Arial, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#104D64" text-anchor="start"><tspan x="1195" dy="0">Keberkesanan strategi pengajaran</tspan><tspan x="1195" dy="1.35em">literasi Bahasa Melayu</tspan></text>
+<text x="1195" y="510" font-family="Arial, Segoe UI, sans-serif" font-size="24" font-weight="400" fill="#1F2933" text-anchor="start"><tspan x="1195" dy="0">• Ketepatan bacaan</tspan><tspan x="1195" dy="1.35em">• Kelancaran bacaan</tspan><tspan x="1195" dy="1.35em">• Kefahaman bacaan</tspan><tspan x="1195" dy="1.35em">• Penulisan asas</tspan></text>
+<line x1="795" y1="330.0" x2="1035" y2="555" stroke="#1F7A8C" stroke-width="7"/>
+<polygon points="1035,555 1011,543 1011,567" fill="#1F7A8C"/>
+<line x1="795" y1="490.0" x2="1035" y2="555" stroke="#1F7A8C" stroke-width="7"/>
+<polygon points="1035,555 1011,543 1011,567" fill="#1F7A8C"/>
+<line x1="795" y1="650.0" x2="1035" y2="555" stroke="#1F7A8C" stroke-width="7"/>
+<polygon points="1035,555 1011,543 1011,567" fill="#1F7A8C"/>
+<line x1="795" y1="810.0" x2="1035" y2="555" stroke="#1F7A8C" stroke-width="7"/>
+<polygon points="1035,555 1011,543 1011,567" fill="#1F7A8C"/>
+<line x1="840" y1="555" x2="1080" y2="555" stroke="#104D64" stroke-width="10"/>
+<polygon points="1080,555 1052,541 1052,569" fill="#104D64"/>
+<text x="120" y="995" font-family="Arial, Segoe UI, sans-serif" font-size="20" font-weight="400" fill="#5D6C7A" text-anchor="start"><tspan x="120" dy="0">Rajah menunjukkan bahawa faktor linguistik murid sebagai IV mempunyai hubungan dengan keberkesanan strategi pengajaran literasi Bahasa Melayu sebagai DV.</tspan></text>
+</svg>

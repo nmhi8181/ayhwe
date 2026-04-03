@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1280" viewBox="0 0 1920 1280">
+<rect width="1920" height="1280" fill="#F8F6F1"/>
+<rect x="0" y="0" width="1920" height="110" fill="#104D64"/>
+<text x="70" y="65" font-family="Arial, Segoe UI, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">Rangka Kajian: Kaitan antara Objektif Kajian dan Hipotesis Kajian</text>
+<text x="72" y="96" font-family="Arial, Segoe UI, sans-serif" font-size="22" fill="#D8E5EA">Hubungan aliran objektif deskriptif, objektif inferensi, dan hipotesis yang diuji dalam kajian</text>
+
+<rect x="110" y="180" width="730" height="120" rx="28" fill="#1F7A8C"/>
+<rect x="110" y="335" width="730" height="120" rx="28" fill="#1F7A8C"/>
+<rect x="110" y="520" width="730" height="150" rx="28" fill="#D9A441"/>
+<rect x="110" y="1020" width="730" height="120" rx="28" fill="#5A9466"/>
+<rect x="110" y="1170" width="730" height="90" rx="28" fill="#104D64"/>
+
+<text x="475" y="225" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF"><tspan x="475" dy="0">Objektif 1</tspan><tspan x="475" dy="1.35em">Mengenal pasti tahap faktor linguistik utama murid Tahap 1</tspan></text>
+<text x="475" y="380" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF"><tspan x="475" dy="0">Objektif 2</tspan><tspan x="475" dy="1.35em">Mengenal pasti strategi pengajaran literasi Bahasa Melayu yang digunakan guru</tspan></text>
+<text x="475" y="570" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF"><tspan x="475" dy="0">Objektif 3</tspan><tspan x="475" dy="1.35em">Menentukan hubungan antara faktor linguistik murid</tspan><tspan x="475" dy="1.25em">dengan keberkesanan strategi pengajaran</tspan></text>
+<text x="475" y="1065" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF"><tspan x="475" dy="0">Objektif 4</tspan><tspan x="475" dy="1.35em">Mengenal pasti faktor linguistik yang paling dominan meramal keberkesanan strategi pengajaran</tspan></text>
+<text x="475" y="1205" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF"><tspan x="475" dy="0">Objektif 5</tspan><tspan x="475" dy="1.3em">Meneroka penyesuaian strategi guru berdasarkan profil linguistik murid</tspan></text>
+
+<rect x="1040" y="180" width="760" height="110" rx="28" fill="#FFFFFF" stroke="#D5DDE3" stroke-width="3"/>
+<rect x="1040" y="320" width="760" height="110" rx="28" fill="#FFFFFF" stroke="#D5DDE3" stroke-width="3"/>
+<rect x="1040" y="460" width="760" height="110" rx="28" fill="#FFFFFF" stroke="#D5DDE3" stroke-width="3"/>
+<rect x="1040" y="600" width="760" height="110" rx="28" fill="#FFFFFF" stroke="#D5DDE3" stroke-width="3"/>
+<rect x="1040" y="980" width="760" height="130" rx="28" fill="#FFFFFF" stroke="#D5DDE3" stroke-width="3"/>
+
+<text x="1420" y="220" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="20" fill="#1F2933"><tspan x="1420" dy="0">H1</tspan><tspan x="1420" dy="1.35em">Hubungan kesedaran fonologi dengan keberkesanan strategi pengajaran</tspan></text>
+<text x="1420" y="360" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="20" fill="#1F2933"><tspan x="1420" dy="0">H2</tspan><tspan x="1420" dy="1.35em">Hubungan kesedaran morfologi asas dengan keberkesanan strategi pengajaran</tspan></text>
+<text x="1420" y="500" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="20" fill="#1F2933"><tspan x="1420" dy="0">H3</tspan><tspan x="1420" dy="1.35em">Hubungan kosa kata dan bahasa lisan dengan keberkesanan strategi pengajaran</tspan></text>
+<text x="1420" y="640" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="20" fill="#1F2933"><tspan x="1420" dy="0">H4</tspan><tspan x="1420" dy="1.35em">Hubungan bahasa ibunda / bahasa rumah dengan keberkesanan strategi pengajaran</tspan></text>
+<text x="1420" y="1025" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="20" fill="#1F2933"><tspan x="1420" dy="0">H5</tspan><tspan x="1420" dy="1.35em">Faktor linguistik tertentu merupakan peramal signifikan</tspan><tspan x="1420" dy="1.25em">terhadap keberkesanan strategi pengajaran</tspan></text>
+
+<line x1="840" y1="240" x2="1010" y2="595" stroke="#1F7A8C" stroke-width="7"/><polygon points="1010,595 990,585 990,605" fill="#1F7A8C"/>
+<line x1="840" y1="395" x2="1010" y2="595" stroke="#1F7A8C" stroke-width="7"/><polygon points="1010,595 990,585 990,605" fill="#1F7A8C"/>
+<line x1="840" y1="595" x2="1040" y2="235" stroke="#D9A441" stroke-width="7"/><polygon points="1040,235 1020,245 1020,225" fill="#D9A441"/>
+<line x1="840" y1="595" x2="1040" y2="375" stroke="#D9A441" stroke-width="7"/><polygon points="1040,375 1020,385 1020,365" fill="#D9A441"/>
+<line x1="840" y1="595" x2="1040" y2="515" stroke="#D9A441" stroke-width="7"/><polygon points="1040,515 1020,525 1020,505" fill="#D9A441"/>
+<line x1="840" y1="595" x2="1040" y2="655" stroke="#D9A441" stroke-width="7"/><polygon points="1040,655 1020,665 1020,645" fill="#D9A441"/>
+<line x1="1420" y1="710" x2="475" y2="1020" stroke="#5A9466" stroke-width="7"/><polygon points="475,1020 496,1008 486,1032" fill="#5A9466"/>
+<line x1="1420" y1="1110" x2="475" y2="1170" stroke="#104D64" stroke-width="7"/><polygon points="475,1170 497,1158 487,1182" fill="#104D64"/>
+
+<rect x="108" y="135" width="262" height="35" rx="18" fill="#1F7A8C"/>
+<rect x="1038" y="135" width="282" height="35" rx="18" fill="#D9A441"/>
+<text x="239" y="158" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="18" fill="#FFFFFF">Bahagian Objektif Kajian</text>
+<text x="1179" y="158" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="18" fill="#FFFFFF">Bahagian Hipotesis Kajian</text>
+
+<text x="110" y="1230" font-family="Arial, Segoe UI, sans-serif" font-size="18" fill="#5D6C7A">O1 dan O2 bersifat deskriptif. O3 diuji melalui H1-H4. O4 diuji melalui H5. O5 melengkapkan dapatan secara kualitatif.</text>
+</svg>

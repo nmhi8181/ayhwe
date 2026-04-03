@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Login
+					</title>
+
+	
+<meta name="generator" content="Open Journal Systems 3.3.0.6">
+	<link rel="stylesheet" href="https://jml.um.edu.my/index.php/index/$$$call$$$/page/page/css?name=stylesheet" type="text/css" /><link rel="stylesheet" href="https://jml.um.edu.my/index.php/index/$$$call$$$/page/page/css?name=font" type="text/css" /><link rel="stylesheet" href="https://jml.um.edu.my/lib/pkp/styles/fontawesome/fontawesome.css?v=3.3.0.6" type="text/css" /><link rel="stylesheet" href="https://jml.um.edu.my/plugins/generic/orcidProfile/css/orcidProfile.css?v=3.3.0.6" type="text/css" />
+</head>
+<body class="pkp_page_login pkp_op_index has_site_logo" dir="ltr">
+
+	<div class="pkp_structure_page">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+						 <nav class="cmp_skip_to_content" aria-label="Jump to content links">
+	<a href="#pkp_content_main">Skip to main content</a>
+	<a href="#siteNav">Skip to main navigation menu</a>
+		<a href="#pkp_content_footer">Skip to site footer</a>
+</nav>
+
+			<div class="pkp_head_wrapper">
+
+				<div class="pkp_site_name_wrapper">
+					<button class="pkp_site_nav_toggle">
+						<span>Open Menu</span>
+					</button>
+										<div class="pkp_site_name">
+																<a href="						https://jml.um.edu.my/index.php/index/index
+					" class="is_img">
+							<img src="https://jml.um.edu.my/public/site/pageHeaderTitleImage_en_US.png" width="168" height="58"  />
+						</a> 
+<span style="color:darkblue;vertical-align:50px">&nbsp;&nbsp;| <strong>E-Journal</strong></span>
+										<!--span style="color:darkblue;vertical-align:30px">&nbsp;&nbsp;| <strong>E-Journal</strong></span-->
+					</div>
+					
+				</div>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Site Navigation">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row">
+						<div class="pkp_navigation_primary_wrapper">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="https://jml.um.edu.my/index.php/index/history">
+					HISTORY
+				</a>
+							</li>
+								<li class="">
+				<a href="https://jml.um.edu.my/index.php/index/about">
+					ABOUT
+				</a>
+							</li>
+								<li class="">
+				<a href="https://jml.um.edu.my/index.php/index/team">
+					TEAM
+				</a>
+							</li>
+								<li class="">
+				<a href="https://www.um.edu.my/">
+					PUBLISHER
+				</a>
+							</li>
+								<li class="">
+				<a href="https://jml.um.edu.my/index.php/index/ourbusiness">
+					OUR BUSINESS
+				</a>
+							</li>
+								<li class="">
+				<a href="https://jml.um.edu.my/index.php/index/bookseries">
+					BOOK SERIES
+				</a>
+									<ul>
+																					<li class="">
+									<a href="https://ejournal.um.edu.my/index.php/sciencetechnology/index">
+										UM SCIENCE AND TECHNOLOGY BOOK SERIES
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://ejournal.um.edu.my/index.php/healthscience/index">
+										UM HEALTH SCIENCE BOOK SERIES
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://ejournal.um.edu.my/index.php/socialscience/index">
+										UM SOCIAL SCIENCE BOOK SERIES
+									</a>
+								</li>
+																		</ul>
+							</li>
+								<li class="">
+				<a href="https://jml.um.edu.my/index.php/index/announcements">
+					ANNOUNCEMENTS
+				</a>
+							</li>
+								<li class="">
+				<a href="https://jml.um.edu.my/index.php/index/user/register">
+					REGISTER
+				</a>
+							</li>
+								<li class="">
+				<a href="https://jml.um.edu.my/index.php/index/login">
+					LOGIN
+				</a>
+							</li>
+								<li class="">
+				<a href="https://jml.um.edu.my/index.php/index/contact">
+					CONTACT
+				</a>
+							</li>
+			</ul>
+
+				
+
+																				</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper">
+						
+					</div>
+				</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar">
+			<div class="pkp_structure_main" role="main">
+				<a id="pkp_content_main"></a>
+
+<div class="page page_login">
+	<nav class="cmp_breadcrumbs" role="navigation" aria-label="You are here:">
+	<ol>
+		<li>
+			<a href="https://jml.um.edu.my/index.php/index/index">
+				Home
+			</a>
+			<span class="separator">/</span>
+		</li>
+		<li class="current">
+			<span aria-current="page">
+									Login
+							</span>
+		</li>
+	</ol>
+</nav>
+
+	<h1>
+		Login
+	</h1>
+
+		
+	<form class="cmp_form cmp_form login" id="login" method="post" action="https://jml.um.edu.my/index.php/index/login/signIn">
+		<input type="hidden" name="csrfToken" value="cbdb3ae34365d3cd1317208223d76aa7">
+
+		
+		<input type="hidden" name="source" value="/index.php/JPM/article/download/9633/6796" />
+
+		<fieldset class="fields">
+			<legend class="pkp_screen_reader">Login</legend>
+			<div class="username">
+				<label>
+					<span class="label">
+						Username
+						<span class="required" aria-hidden="true">*</span>
+						<span class="pkp_screen_reader">
+							Required
+						</span>
+					</span>
+					<input type="text" name="username" id="username" value="" maxlength="32" required aria-required="true">
+				</label>
+			</div>
+			<div class="password">
+				<label>
+					<span class="label">
+						Password
+						<span class="required" aria-hidden="true">*</span>
+						<span class="pkp_screen_reader">
+							Required
+						</span>
+					</span>
+					<input type="password" name="password" id="password" value="" password="true" maxlength="32" required aria-required="true">
+					<a href="https://jml.um.edu.my/index.php/index/login/lostPassword">
+						Forgot your password?
+					</a>
+				</label>
+			</div>
+			<div class="remember checkbox">
+				<label>
+					<input type="checkbox" name="remember" id="remember" value="1" checked="$remember">
+					<span class="label">
+						Keep me logged in
+					</span>
+				</label>
+			</div>
+			<div class="buttons">
+				<button class="submit" type="submit">
+					Login
+				</button>
+
+														<a href="https://jml.um.edu.my/index.php/index/user/register?source=%2Findex.php%2FJPM%2Farticle%2Fdownload%2F9633%2F6796" class="register">
+						Register
+					</a>
+							</div>
+		</fieldset>
+	</form>
+</div><!-- .page -->
+
+	</div><!-- pkp_structure_main -->
+
+									<div class="pkp_structure_sidebar left" role="complementary" aria-label="Sidebar">
+				<div class="pkp_block block_custom" id="customblock-navigation">
+	<h2 class="title">Navigation</h2>
+	<div class="content">
+		<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>BY FACULTIES</strong></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>ISLAMIC STUDIES</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/afkar/index">Afkar</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/ALBASIRAH/index">Al-Basirah</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/albayan/index">Al-Bayan</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/AL-FALAH/index">Al-Falah</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/MUQADDIMAH/index">Al-Muqaddimah</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JAT/index">Al-Tamaddun</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/FIQH/index">Fiqh</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JIER/index">Islamic Educational Research</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/OJIMF/index">Islamic Management and Finance</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/RIS/index">Research in Islamic Studies</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JSLR/index">Shariah Law Research</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JS/index">Syariah</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JUD/index">Usuluddin</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>MALAY STUDIES</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JOMAS/index">Malay Studies</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/jurnalmelayusedunia/index">Malay World</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>ASIA-EUROPE INSTITUTE</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/AEIINSIGHTS/index">AEI Insights</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>ARTS AND SOCIAL SCIENCES</strong></p>
+<p><a href="https://borneojournal.um.edu.my/index.php/BRJ/login">Borneo Research</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/IJCS/index">China Studies</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JCLC/index">Chinese Literature &amp; Culture</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/jati/index">East Asian Studies</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JIS/index">Indian Studies</a></p>
+<p><a href="https://ijeas.um.edu.my/index.php/IJEAS/index">International Relations</a></p>
+<p><a href="https://mjlis.um.edu.my/index.php/MJLIS/index">Library and Information Science</a></p>
+<p><a href="https://jpmm.um.edu.my/index.php/JPMM/index">Media Studies</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/SARJANA/index">Sarjana</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/SEJARAH/index">Sejarah</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/joss/index">Sinological Studies</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/MJSA/index">Social Administration</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/SARE/index">Southeast Asian Review of English</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/jati/index">Southeast Asian Studies</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/tamilperaivu/index">Tamil Peraivu</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/MJTG/index">Tropical Geography</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>BUILT ENVIRONMENT</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/jdbe/index">Design and Built Environment</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JSCP/index">Surveying, Construction &amp; Property</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JPMP/index">Project Management</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/IJPS/index">Property Sciences</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>BUSINESS AND ECONOMICS</strong></p>
+<p><a href="https://ajap.um.edu.my/index.php/AJAP/index">Accounting Perspectives</a></p>
+<p><a href="https://ajba.um.edu.my/index.php/AJBA/index">Business and Accounting</a></p>
+<p><a href="https://mjes.um.edu.my/index.php/MJES/index">Economic Studies</a></p>
+<p><a href="https://ijie.um.edu.my/index.php/ijie/index">Institutions and Economies</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/IJPS-UM/index">Palestine Studies</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>COMPUTER SCIENCE AND IT</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/mjcs">Computer Science</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/jisrp">Information Systems</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>CREATIVE ARTS</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/tiraipanggung/index">Performing Arts</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/MJPVA/index">Visual Arts</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>DENTISTRY</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/adum/index">Annals of Dentistry</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>EDUCATION</strong></p>
+<p><a href="https://mojem.um.edu.my/index.php/MOJEM/index">Educational Management</a></p>
+<p><a href="https://mojes.um.edu.my/index.php/MOJES/index">Educational Sciences</a></p>
+<p><a href="https://juku.um.edu.my/index.php/JUKU/index">Kurikulum &amp; Pengajaran Asia Pasifik</a></p>
+<p><a href="https://jupidi.um.edu.my/index.php/JUPIDI/index">Kepimpinan Pendidikan</a></p>
+<p><a href="https://ojie.um.edu.my/index.php/O-JIE/index">Islamic Education</a></p>
+<p><a href="https://mojc.um.edu.my/index.php/MOJC/index">Journal of Counselling</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/LALEJ/index">Language and Literacy Education</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>ENGINEERING</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/NECE/index">Electrical Engineering</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>LANGUAGES AND LINGUISTICS</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/aldaad/index">Al-Ḍād Journal</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JML/index">Modern Languages</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>LAW</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JMCL/index">Comparative Law</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>UMPEDAC</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/IJRER/index">Renewable Energy</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>SCIENCE</strong></p>
+<p><a href="https://mjs.um.edu.my/index.php/MJS/index">Science</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>PUSAT DIALOG PERADABAN</strong></p>
+<p><a href="https://peradaban.um.edu.my/index.php/PERADABAN/index">Peradaban</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>SCIENCES FOUNDATION</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JOSMA/index">Statistical Modeling and Analytics</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>STEM CENTRE</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/STEM/index">STEM Journal</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>QURANIC CENTRE</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/quranica">Quranic Research</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>OTHERS</strong></p>
+<p><a href="https://ejournal.um.edu.my/index.php/mjca/index">Cyber Security</a></p>
+<p><a href="https://katha.um.edu.my/index.php/KATHA/index">KATHA</a></p>
+<p><a href="https://ejournal.um.edu.my/index.php/JICE/index">Comparative Education</a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>BY ABSTRACTING &amp; INDEXING</strong></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>SCI/E</strong></p>
+<p><strong>MJCS - Impact Factor 1.2</strong></p>
+<p><a href="https://mjl.clarivate.com/search-results"><img src="https://companieslogo.com/img/orig/CLVT_BIG-89d9d2b6.png?t=1720244491" alt="Clarivate logo in transparent PNG and vectorized SVG formats" width="163" height="28"></a></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>SSCI</strong></p>
+<p><strong>MJLIS - Impact Factor: 0.5</strong></p>
+<p><img src="https://companieslogo.com/img/orig/CLVT_BIG-89d9d2b6.png?t=1720244491" alt="Clarivate logo in transparent PNG and vectorized SVG formats" width="163" height="28"></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>ESCI</strong></p>
+<p>AFKAR – Impact Factor: 0.4</p>
+<p><img src="https://companieslogo.com/img/orig/CLVT_BIG-89d9d2b6.png?t=1720244491" alt="Clarivate logo in transparent PNG and vectorized SVG formats" width="163" height="28"></p>
+<p>AJBA – Impact Factor: 1.1</p>
+<p><img src="https://companieslogo.com/img/orig/CLVT_BIG-89d9d2b6.png?t=1720244491" alt="Clarivate logo in transparent PNG and vectorized SVG formats" width="163" height="28"></p>
+<p>AL BAYAN – Impact Factor: 0.3</p>
+<p><img src="https://companieslogo.com/img/orig/CLVT_BIG-89d9d2b6.png?t=1720244491" alt="Clarivate logo in transparent PNG and vectorized SVG formats" width="163" height="28"></p>
+<p>AL-TAMADDUN – Impact Factor: TBA</p>
+<p><img src="https://companieslogo.com/img/orig/CLVT_BIG-89d9d2b6.png?t=1720244491" alt="Clarivate logo in transparent PNG and vectorized SVG formats" width="163" height="28"></p>
+<p>JATI – Impact Factor: 0.1</p>
+<p><img src="https://companieslogo.com/img/orig/CLVT_BIG-89d9d2b6.png?t=1720244491" alt="Clarivate logo in transparent PNG and vectorized SVG formats" width="163" height="28"></p>
+<p>JICE – Impact Factor: 0.4</p>
+<p><img src="https://companieslogo.com/img/orig/CLVT_BIG-89d9d2b6.png?t=1720244491" alt="Clarivate logo in transparent PNG and vectorized SVG formats" width="163" height="28"></p>
+<p>MJES – Impact Factor: TBA</p>
+<p><img src="https://companieslogo.com/img/orig/CLVT_BIG-89d9d2b6.png?t=1720244491" alt="Clarivate logo in transparent PNG and vectorized SVG formats" width="163" height="28"></p>
+<p>SARE – Impact Factor: 0.1</p>
+<p><img src="https://companieslogo.com/img/orig/CLVT_BIG-89d9d2b6.png?t=1720244491" alt="Clarivate logo in transparent PNG and vectorized SVG formats" width="163" height="28"></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>SCOPUS</strong></p>
+<p><strong>AFKAR: Jurnal Akidah &amp; Pemikiran Islam</strong></p>
+<p><strong><a href="https://www.scopus.com/sourceid/21100941616"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"></a> <a href="https://www.scimagojr.com/journalsearch.php?q=21100941616&amp;tip=sid&amp;clean=0"><img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></a></strong></p>
+<p><strong>Al- Bayan: Journal of Qurʾan and Hadith studies</strong></p>
+<p><strong><a href="https://www.scopus.com/sourceid/21100463090"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"></a> <img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></strong></p>
+<p><strong>Institutions and Economies</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <a href="https://www.scimagojr.com/journalsearch.php?q=21100258386&amp;tip=sid&amp;clean=0"><img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></a></strong></p>
+<p><strong>International Journal of China Studies</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <a href="https://www.scimagojr.com/journalsearch.php?q=21100278321&amp;tip=sid&amp;clean=0"><img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></a></strong></p>
+<p><strong>Journal of Al-Tamaddun</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <a href="https://www.scimagojr.com/journalsearch.php?q=21100927901&amp;tip=sid&amp;clean=0"><img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></a></strong></p>
+<p><strong>Journal of Design and Built Environment</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <a href="https://www.scimagojr.com/journalsearch.php?q=21100435282&amp;tip=sid&amp;clean=0"><img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></a></strong></p>
+<p><strong>Journal of Fiqh</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></strong></p>
+<p><strong>Journal of Shariah Law Research</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></strong></p>
+<p><strong>Malaysian Journal of Economic Studies</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <a href="https://www.scimagojr.com/journalsearch.php?q=11300153719&amp;tip=sid&amp;clean=0"><img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></a></strong></p>
+<p><strong>Malaysian Journal of International Relations</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></strong></p>
+<p><strong>Malaysian Journal of Science</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <a href="https://www.scimagojr.com/journalsearch.php?q=5700165166&amp;tip=sid&amp;clean=0"><img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></a></strong></p>
+<p><strong>Malaysian Online Journal of Educational Management</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <a href="https://www.scimagojr.com/journalsearch.php?q=21100851844&amp;tip=sid&amp;clean=0"><img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></a></strong></p>
+<p><strong>Quranica Journal</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></strong></p>
+<p><strong>SARE: Southeast Asian Review of English</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></strong></p>
+<p><strong>The Asian Journal of Business and Accounting</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <a href="https://www.scimagojr.com/journalsearch.php?q=21100199113&amp;tip=sid&amp;clean=0"><img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></a></strong></p>
+<p><strong>The Malaysian Journal of Computer Science</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <a href="https://www.scimagojr.com/journalsearch.php?q=7600153103&amp;tip=sid&amp;clean=0"><img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></a></strong></p>
+<p><strong>The Malaysian Journal of Library and Information Science</strong></p>
+<p><strong><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUNeZxdWNs3dyvjjrsiFrQ8QCLWU_czL0bg&amp;s" alt="File:Scopus logo.svg - Wikimedia Commons" width="81" height="26"> <a href="https://www.scimagojr.com/journalsearch.php?q=7600153106&amp;tip=sid&amp;clean=0"><img src="https://ijcscardiol.org/wp-content/uploads/2023/06/logo.png" alt="IJCS achieves its first impact factor - International Journal of  Cardiovascular Sciences" width="85" height="26"></a></strong></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>MYCITE</strong></p>
+<p>AFKAR: Journal of Aqidah and Islamic Thought</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Annals of Dentistry</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Asian Journal of Accounting Perspectives</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Asian Journal of Business and Accounting</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Borneo Research Journal</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Institutions and Economies</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>International Online Journal of Educational Leadership</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>JATI: Journal of Southeast Asian Studies</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Journal of Al-Tamaddun</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Journal of Design and Built Environment</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Journal of Health and Translational Medicine</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Journal of International and Comparative Education</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Journal of Malay Studies</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Journal of Modern Languages</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Journal of Shariah Law Research</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Journal of Surveying, Construction and Property</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Jurnal Fiqh</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Jurnal Pengajian Media Malaysia</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Jurnal Syariah</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Jurnal Usuluddin</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Malaysian Journal of Computer Science</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Malaysian Journal of Economic Studies</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Malaysian Journal of International Relations</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Malaysian Journal of Library &amp; Information Science</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Malaysian Journal of Science</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Malaysian Online Journal of Educational Management</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Malaysian Online Journal of Educational Sciences</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>Online Journal of Research in Islamic Studies</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>QURANICA- International Journal of Quranic Research</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>SARE: Southeast Asian Review of English</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>SARJANA</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p>SEJARAH: Jurnal Jabatan Sejarah University of Malaya</p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/MyJurnal_OJS3.png"></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>GOOGLE SCHOLAR</strong></p>
+<p><strong><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/Google_Scholar_Trans_-_OJS1.png"></strong></p>
+<p>All journals are indexed in Google Scholar</p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>POLICY</strong></p>
+<p><a href="https://drive.google.com/file/d/11V0EJtiG_kUoInXLXxpKQWfkLH1Jh2CM/view?usp=sharing">Artificial Intelligence (AI) Policy</a></p>
+<p>Open Access Policy</p>
+<p>Editorial Process</p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>CHARGES</strong></p>
+<p>Article Processing Charge</p>
+<p>Revenue Sources</p>
+<p>Direct Marketing</p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>MEMBER OF</strong></p>
+<p><img src="https://publisher.uthm.edu.my/ojs/public/site/images/penerbit/Crossref_Logo_-_OJS7.png"></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>SPECIAL ISSUE</strong></p>
+<p><em>To be announced</em></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>CONFERENCES</strong></p>
+<p><em>To be announced</em></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p><strong>SUPPORTING SOCIETIES</strong></p>
+<p><em>To be announced</em></p>
+<p><strong><img src="https://mjcs.fsktm.um.edu.my/public/site/images/mjcs/mceclip7.png"></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+	</div>
+</div>
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div class="pkp_structure_footer_wrapper" role="contentinfo">
+	<a id="pkp_content_footer"></a>
+
+	<div class="pkp_structure_footer">
+
+					<div class="pkp_footer_content">
+				<div class="row">
+<div class="col-md-12 text-left"><center><hr size="2px" />
+<p align="center"><strong>Office:</strong><br />Research Journal Management (REJMA), Universiti Malaya<br />50603 Kuala Lumpur, Malaysia<br />Phone: +603-79676010<br />Email: rejma@um.edu.my </p>
+</center><hr size="2px" />
+<p><strong>COPYRIGHT: </strong>All rights reserved. No part of this journal may be reproduced, copied or transmitted, in any form or by any means, electronic, mechanical, photocopying, and recording or otherwise without proper written permission from the publisher. Any opinion expressed in the articles are those of the authors and do not reflect that of the UM Journals.</p>
+</div>
+</div>
+			</div>
+		
+		<div class="pkp_brand_footer" role="complementary">
+			<a href="https://jml.um.edu.my/index.php/index/about/aboutThisPublishingSystem">
+				<img alt="More information about the publishing system, Platform and Workflow by OJS/PKP." src="https://jml.um.edu.my/templates/images/ojs_brand.png">
+			</a>
+		</div>
+	</div>
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+<script src="https://jml.um.edu.my/lib/pkp/lib/vendor/components/jquery/jquery.min.js?v=3.3.0.6" type="text/javascript"></script><script src="https://jml.um.edu.my/lib/pkp/lib/vendor/components/jqueryui/jquery-ui.min.js?v=3.3.0.6" type="text/javascript"></script><script src="https://jml.um.edu.my/plugins/themes/default/js/lib/popper/popper.js?v=3.3.0.6" type="text/javascript"></script><script src="https://jml.um.edu.my/plugins/themes/default/js/lib/bootstrap/util.js?v=3.3.0.6" type="text/javascript"></script><script src="https://jml.um.edu.my/plugins/themes/default/js/lib/bootstrap/dropdown.js?v=3.3.0.6" type="text/javascript"></script><script src="https://jml.um.edu.my/plugins/themes/default/js/main.js?v=3.3.0.6" type="text/javascript"></script>
+
+
+</body>
+</html>

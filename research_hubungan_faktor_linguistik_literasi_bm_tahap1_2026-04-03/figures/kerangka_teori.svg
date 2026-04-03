@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#F8F6F1"/>
+<rect x="0" y="0" width="1920" height="120" fill="#104D64"/>
+<text x="80" y="62" font-family="Arial, Segoe UI, sans-serif" font-size="44" font-weight="700" fill="#FFFFFF">Kerangka Teori Kajian</text>
+<text x="82" y="96" font-family="Arial, Segoe UI, sans-serif" font-size="24" fill="#D8E5EA">Landasan teori yang menyokong hubungan faktor linguistik dan keberkesanan strategi pengajaran literasi Bahasa Melayu murid Tahap 1</text>
+
+<rect x="120" y="210" width="440" height="330" rx="30" fill="#FFFFFF" stroke="#D5DDE3" stroke-width="3"/>
+<rect x="120" y="210" width="440" height="72" rx="30" fill="#1F7A8C"/>
+<text x="340" y="255" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">Teori Literasi Awal</text>
+<text x="154" y="340" font-family="Arial, Segoe UI, sans-serif" font-size="22" fill="#1F2933"><tspan x="154" dy="0">• Kesedaran fonologi</tspan><tspan x="154" dy="1.5em">• Kosa kata</tspan><tspan x="154" dy="1.5em">• Bahasa lisan</tspan><tspan x="154" dy="1.5em">• Pengalaman awal bahasa</tspan></text>
+
+<rect x="740" y="210" width="440" height="330" rx="30" fill="#FFFFFF" stroke="#D5DDE3" stroke-width="3"/>
+<rect x="740" y="210" width="440" height="72" rx="30" fill="#D9A441"/>
+<text x="960" y="255" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">Simple View of Reading</text>
+<text x="774" y="340" font-family="Arial, Segoe UI, sans-serif" font-size="22" fill="#1F2933"><tspan x="774" dy="0">• Dekoding</tspan><tspan x="774" dy="1.5em">• Kefahaman linguistik</tspan><tspan x="774" dy="1.5em">• Menyokong kefahaman bacaan</tspan></text>
+
+<rect x="1360" y="210" width="440" height="330" rx="30" fill="#FFFFFF" stroke="#D5DDE3" stroke-width="3"/>
+<rect x="1360" y="210" width="440" height="72" rx="30" fill="#5A9466"/>
+<text x="1580" y="255" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">Konstruktivisme Sosial Vygotsky</text>
+<text x="1394" y="340" font-family="Arial, Segoe UI, sans-serif" font-size="22" fill="#1F2933"><tspan x="1394" dy="0">• Perancah pembelajaran</tspan><tspan x="1394" dy="1.5em">• Penyesuaian strategi</tspan><tspan x="1394" dy="1.5em">• Bimbingan mengikut tahap murid</tspan></text>
+
+<rect x="460" y="660" width="1000" height="200" rx="34" fill="#FFFDF8" stroke="#D5DDE3" stroke-width="3"/>
+<text x="960" y="735" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="22" fill="#1F2933">
+  <tspan x="960" dy="0">Kerangka teori kajian</tspan>
+  <tspan x="960" dy="1.6em">Faktor linguistik murid perlu difahami melalui literasi awal dan kefahaman linguistik,</tspan>
+  <tspan x="960" dy="1.4em">manakala keberkesanan strategi pengajaran dijelaskan melalui prinsip perancah dan penyesuaian pengajaran.</tspan>
+</text>
+
+<rect x="640" y="915" width="640" height="100" rx="26" fill="#104D64"/>
+<text x="960" y="960" text-anchor="middle" font-family="Arial, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">
+  <tspan x="960" dy="0">Implikasi: faktor linguistik murid mempunyai hubungan dengan</tspan>
+  <tspan x="960" dy="1.3em">keberkesanan strategi pengajaran literasi Bahasa Melayu</tspan>
+</text>
+
+<line x1="340" y1="540" x2="960" y2="660" stroke="#104D64" stroke-width="7"/><polygon points="960,660 938,649 938,671" fill="#104D64"/>
+<line x1="960" y1="540" x2="960" y2="660" stroke="#104D64" stroke-width="7"/><polygon points="960,660 949,638 971,638" fill="#104D64"/>
+<line x1="1580" y1="540" x2="960" y2="660" stroke="#104D64" stroke-width="7"/><polygon points="960,660 982,649 982,671" fill="#104D64"/>
+<line x1="960" y1="860" x2="960" y2="915" stroke="#D9A441" stroke-width="8"/><polygon points="960,915 948,891 972,891" fill="#D9A441"/>
+
+<text x="120" y="1035" font-family="Arial, Segoe UI, sans-serif" font-size="20" fill="#5D6C7A">Kerangka teori ini menggabungkan Teori Literasi Awal, Simple View of Reading, dan Konstruktivisme Sosial Vygotsky sebagai asas konsep kajian.</text>
+</svg>
